@@ -1,0 +1,1 @@
+print("Your name is " + input("First Name: ") + " " + input("Last Name: "))

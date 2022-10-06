@@ -1,0 +1,1 @@
+print("Company Name: " + input("What is your last name? ") + "'s" + " " + input("What is your product? "))
